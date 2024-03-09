@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co/QnWVtxY/rsz-conference.png",
+    "title": "Edu. Conferences",
+    "category_bg_color": "#0052FF",
+    "card_bg_color": "#0052FF26",
+    "text_color": "#0052FF",
+    "button_bg_color": "#0052FF",
+    "description": "Steep and steps organizations host highly impactful Educational Conferences and Seminars.",
+    "price": 255.00
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/VqJL6kh/rsz-care1er.png",
+    "title": "Career",
+    "category_bg_color": "#F87147",
+    "card_bg_color": "#FF444A26",
+    "text_color": "#FF444A",
+    "button_bg_color": "#FF444A",
+    "description": "Steep and steps organizations, also known as hierarchical organizations, are characterized by a clear chain of command and numerous levels of management.",
+    "price": 555.00
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/5KN15FD/rsz-workshop.png",
+    "title": "Workshops",
+    "category_bg_color": "#79C23F",
+    "card_bg_color": "#79C23F26",
+    "text_color": "#79C23F",
+    "button_bg_color": "#79C23F",
+    "description": "Steep and steps organizations conduct innovative workshops designed to foster both individual and collective growth.",
+    "price": 855.00
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/4tVsVsD/e.png",
+    "title": "Our Courses",
+    "category_bg_color": "#0052FF",
+    "card_bg_color": "#0052FF26",
+    "text_color": "#0052FF",
+    "button_bg_color": "#0052FF",
+    "description": "Steep and Steps is an innovative educational organization offering a diverse range of training courses designed to equip individuals with practical skills and knowledge across various disciplines.",
+    "price": 300.00
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co/3k1vD6k/rsz-trainig.png",
+    "title": "Training Program",
+    "category_bg_color": "#F87147",
+    "card_bg_color": "#F8714726",
+    "text_color": "#F87147",
+    "button_bg_color": "#F87147",
+    "description": "Steep and steps organizations prioritize extensive and immersive educational programs that involve in-depth theoretical knowledge and practical training.",
+    "price": 355.00
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/rk94Qqh/rsz-suport.png",
+    "title": "Support",
+    "category_bg_color": "#79C23F",
+    "card_bg_color": "#79C23F26",
+    "text_color": "#79C23F",
+    "button_bg_color": "#79C23F",
+    "description": "Steep and steps excels with tailored solutions and a dynamic consultant team, fostering a culture of innovation.",
+    "price": 200.00
+  }
+]
+
+
